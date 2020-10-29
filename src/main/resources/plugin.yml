@@ -1,0 +1,5 @@
+name: MTDrugs
+version: ${project.version}
+main: me.esmaybe.mtdrugs.MTDrugs
+api-version: 1.16
+authors: [Esmaybe]
